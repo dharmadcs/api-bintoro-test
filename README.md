@@ -10,13 +10,13 @@
 
 ## Cara Penggunaan
 
-- Downlod or Clone Project
-- Contoh ada di folder README
+- Downlod atau Clone Project
 - Ubah .env.example menjadi .env dan set database menjadi api-bintoro
 - Terminal  : composer install
 - Terminal  : php artisan migrate
 - Terminal  : php artisan serve
 - Lalu test di postman/insomnia/frontend project
+- Contoh ada di folder README
 
 
 ## API Route
